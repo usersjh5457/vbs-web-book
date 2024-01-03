@@ -1,0 +1,46 @@
+Arguments: 
+  /usr/local/bin/node /Users/sjh/.npm-global/bin/yarn add gitBook@3.2.3 -g
+
+PATH: 
+  /Users/sjh/.npm-global/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/sjh/.npm-global/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Applications/010 Editor.app/Contents/CmdLine:/Applications/010 Editor.app/Contents/CmdLine
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: https://registry.npm.taobao.org/gitBook: Not found
+      at Request.params.callback [as _callback] (/Users/sjh/.npm-global/lib/node_modules/yarn/lib/cli.js:66145:18)
+      at Request.self.callback (/Users/sjh/.npm-global/lib/node_modules/yarn/lib/cli.js:140890:22)
+      at Request.emit (node:events:513:28)
+      at Request.<anonymous> (/Users/sjh/.npm-global/lib/node_modules/yarn/lib/cli.js:141862:10)
+      at Request.emit (node:events:513:28)
+      at IncomingMessage.<anonymous> (/Users/sjh/.npm-global/lib/node_modules/yarn/lib/cli.js:141784:12)
+      at Object.onceWrapper (node:events:627:28)
+      at IncomingMessage.emit (node:events:525:35)
+      at endReadableNT (node:internal/streams/readable:1358:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  {
+    "name": "vbs-web-book",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

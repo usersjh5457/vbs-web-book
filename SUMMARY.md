@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [Unreal Engine](unreal-engine/README.md)
-    * [UE SDK](unreal-engine/ue-sdk/README.md)
+* Unreal Engine
+    * UE SDK
         * [产品介绍](unreal-engine/ue-sdk/description.md)
         * [快速开始](unreal-engine/ue-sdk/quick-start.md)
-        * [前端API文档](unreal-engine/ue-sdk/api.md)
+        * 前端 API 文档
             * [API 概览](unreal-engine/ue-sdk/api/api-overview.md)
             * [API 索引](unreal-engine/ue-sdk/api/api-index.md)
             * [初始化相关](unreal-engine/ue-sdk/api/init.md)
@@ -15,10 +15,10 @@
             * [分享相关](unreal-engine/ue-sdk/api/share.md)
             * [错误码](unreal-engine/ue-sdk/api/error-code.md)
         * [接入示例](unreal-engine/ue-sdk/example.md)
-    * [iOS SDK](unreal-engine/ios-sdk/README.md)
+    * iOS SDK
         * [产品介绍](unreal-engine/ios-sdk/description.md)
         * [快速开始](unreal-engine/ios-sdk/quick-start.md)
-        * [前端API文档](unreal-engine/ios-sdk/api.md)
+        * 前端 API 文档
             * [API 概览](unreal-engine/ios-sdk/api/api-overview.md)
             * [API 索引](unreal-engine/ios-sdk/api/api-index.md)
             * [初始化相关](unreal-engine/ios-sdk/api/init.md)
@@ -28,10 +28,10 @@
             * [分享相关](unreal-engine/ios-sdk/api/share.md)
             * [错误码](unreal-engine/ios-sdk/api/error-code.md)
         * [接入示例](unreal-engine/ios-sdk/example.md)
-    * [Android SDK](unreal-engine/android-sdk/README.md)
+    * Android SDK
         * [产品介绍](unreal-engine/android-sdk/description.md)
         * [快速开始](unreal-engine/android-sdk/quick-start.md)
-        * [前端API文档](unreal-engine/android-sdk/api.md)
+        * 前端 API 文档
             * [API 概览](unreal-engine/android-sdk/api/api-overview.md)
             * [API 索引](unreal-engine/android-sdk/api/api-index.md)
             * [初始化相关](unreal-engine/android-sdk/api/init.md)
@@ -41,11 +41,11 @@
             * [分享相关](unreal-engine/android-sdk/api/share.md)
             * [错误码](unreal-engine/android-sdk/api/error-code.md)
         * [接入示例](unreal-engine/android-sdk/example.md)
-* [Unity](unreal-engine/README.md)
-    * [Unity SDK](unreal-engine/ue-sdk/README.md)
+* Unity
+    * Unity SDK
         * [产品介绍](unreal-engine/ue-sdk/description.md)
         * [快速开始](unreal-engine/ue-sdk/quick-start.md)
-        * [前端API文档](unreal-engine/ue-sdk/api.md)
+        * 前端 API 文档
             * [API 概览](unreal-engine/ue-sdk/api/api-overview.md)
             * [API 索引](unreal-engine/ue-sdk/api/api-index.md)
             * [初始化相关](unreal-engine/ue-sdk/api/init.md)
@@ -57,24 +57,24 @@
         * [接入示例](unreal-engine/ue-sdk/example.md)
     * [Unity iOS SDK（研发中）](unreal-engine/ue-sdk/README.md)
     * [Unity Android SDK（研发中）](unreal-engine/ue-sdk/README.md)
-* [Webgl](webgl/README.md)
-    * [嵌入微信小程序](webgl/wechat.md)
+* Webgl
+    * 嵌入微信小程序
         * [产品介绍](webgl/wechat/description.md)
         * [前期准备](webgl/wechat/preparation.md)
         * [快速开始](webgl/wechat/quick-start.md)
         * [参数指南](webgl/wechat/parameter-guide.md)
         * [错误码](webgl/wechat/error-code.md)
-* [Cloud](cloud/README.md)
-    * [H5云端嵌入-微信小程序](cloud/wechat.md)
+* Cloud
+    * H5 云端嵌入-微信小程序
         * [产品介绍](cloud/wechat/description.md)
         * [前期准备](cloud/wechat/preparation.md)
         * [快速开始](cloudwechat/quick-start.md)
         * [参数指南](cloud/wechat/parameter-guide.md)
         * [错误码](cloud/wechat/error-code.md)
-* [资源API文档](resource-api/README.md)
+* 资源 API 文档
     * [接口说明](resource-api/interface-description.md)
-    * [API概览](resource-api/api-overview.md)
-    * [API索引](resource-api/api-index.md)
+    * [API 概览](resource-api/api-overview.md)
+    * [API 索引](resource-api/api-index.md)
     * [登录相关](resource-api/login-related.md)
     * [用户相关](resource-api/user-related.md)
 * [常见问题 FAQ](FAQ/README.md)

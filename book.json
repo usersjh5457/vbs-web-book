@@ -1,7 +1,6 @@
 {
   "plugins": [
     "-search",
-    "page-toc",
     "code",
     "anchor-navigation-ex",
     "hide-element",
